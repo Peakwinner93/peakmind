@@ -1,0 +1,7 @@
+PeakMind © 2026. Tous droits réservés.
+
+Le code, les textes, les images, le nom et le logo de PeakMind appartiennent à son créateur.
+Toute copie, modification, republication ou utilisation commerciale, même partielle, est interdite sans autorisation écrite.
+Sauf les polices Chakra Petch et Space Grotesk (app/fonts), libres sous licence SIL Open Font License 1.1 : voir app/fonts/OFL-*.txt.
+
+PeakMind © 2026. All rights reserved. Copying, modifying or republishing any part of it is not allowed without written permission.
